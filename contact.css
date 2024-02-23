@@ -1,0 +1,48 @@
+body{
+    background:url('img3.jpg');
+}
+#all{
+    margin-top: 10px;
+}
+#d1{
+    text-align: right;
+    font-size: 20px;
+    display: inline-block;
+    margin-left: 900px;
+}
+#d1 ul > li {
+    display: block;
+    float: left;
+    height: auto;
+    width: 120px;
+}
+hr{
+    color: green;
+    height: 2px;
+    background-color: green;
+    margin-right: 800px;
+}
+#sp{
+    color: green;
+}
+.sp1{
+    color: darkcyan;
+}
+#d2{
+    margin-left: 600px;
+}
+#addrs{
+    margin-left: 400px;
+    font-size: 18px;
+}
+#flx{
+    display: flex;
+}
+#mg{
+    height: 350px;
+    width: 350px;
+    border-radius: 150px 0px 150px 0px ;
+}
+#gem{
+    padding-left: 20px;
+}

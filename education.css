@@ -1,0 +1,58 @@
+body{
+    background:url('img3.jpg');
+}
+#all{
+    margin-top: 10px;
+}
+#c1{
+    text-align: right;
+    font-size: 20px;
+    display: inline-block;
+    margin-left: 900px;
+}
+#c1 ul > li {
+    display: block;
+    float: left;
+    height: auto;
+    width: 120px;
+}
+.c2{
+    text-align: center;
+}
+.c3{
+    color: green;
+}
+#c4{
+   margin-left: 250px;
+}
+#c5{
+    width: 950px;
+    height: 180px;
+}
+th{
+    height: 55px;
+    font-size: 18px;
+}
+td{
+    text-align: center;
+    font-size: 17px;
+}
+#c6{
+    background-color:rgba(147, 168, 168, 0.599);
+}
+#c7{
+    height: 48px;
+}
+#c9{
+    height: 30px;
+}
+#mov{
+    display: flex;
+}
+#mov{
+    font-size: 20px;
+    margin-left: 490px;
+}
+#pin{
+    padding-left: 70px;
+}
