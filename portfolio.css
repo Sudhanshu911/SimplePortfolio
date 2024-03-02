@@ -37,3 +37,14 @@ body{
 .spn{
     color: green;
 }
+a{  
+    text-decoration: none;
+    color: black;
+    letter-spacing: 1px;
+    font-weight: 300;
+}
+a:hover{
+    color: rgb(62, 176, 134);
+    text-decoration: underline;
+}
+
