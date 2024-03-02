@@ -1,4 +1,4 @@
-# Portfolio
+# Simple Portfolio
 
 ![portfolio](https://github.com/Sudhanshu911/SimplePortfolio/assets/125581517/e24db480-ec5e-4a33-acdd-9440141400fc)
 ![about](https://github.com/Sudhanshu911/SimplePortfolio/assets/125581517/1a5f0331-9d9e-4191-9deb-c03bd5fe4325)
